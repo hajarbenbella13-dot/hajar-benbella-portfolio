@@ -12,7 +12,7 @@ const education = [
     title: "1er Cycle en Ingénierie Informatique",
     level: "BAC+3",
     school: "ISGA – Rabat",
-    year: "2017",
+    year: "2019",
   },
   {
     title: "Technicien Spécialisé en Réseaux Informatiques",

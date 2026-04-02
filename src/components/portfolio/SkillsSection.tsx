@@ -3,15 +3,15 @@ import { motion } from "framer-motion";
 const skillGroups = [
   {
     title: "Langages",
-    skills: [ "PHP","C#", "JavaScript", "HTML", "CSS", "AS400/Adelia"],
+    skills: [ "Node.js","PHP","C#", "JavaScript", "HTML", "CSS", "AS400/Adelia"],
   },
   {
     title: "Frameworks",
-    skills: [ "Laravel", "React", "Tailwind CSS", "Bootstrap" , ".NET"],
+    skills: [ "Express.js","Laravel",".NET", "React", "Tailwind CSS", "Bootstrap"  ],
   },
   {
     title: "Bases de données",
-    skills: ["Oracle", "MySQL", "SQL", "PL/SQL"],
+    skills: ["Oracle", "MySQL", "PostgreSQL", "PL/SQL"],
   },
   {
     title: "Outils & Méthodologies",
